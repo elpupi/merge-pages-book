@@ -1,0 +1,21 @@
+{
+    "name": "@milottiv/merge-pages-book",
+    "version": "0.0.1",
+    "description": "",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Thomas Milotti <thomas.milotti@gmail.com> (https://github.com/milottit)",
+    "license": "MIT",
+    "dependencies": {
+        "find-up": "^5.0.0",
+        "fs-extra": "^9.0.1",
+        "yargs": "^16.2.0"
+    },
+    "devDependencies": {
+        "@types/fs-extra": "^9.0.5",
+        "@types/node": "^14.14.14",
+        "@types/yargs": "^15.0.12"
+    }
+}
